@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\documents\visual studio 2015\projects\scanhost\scanhost\main.cpp(5): warning C4005: “max”: 宏重定义
+  c:\program files\windows kits\8.1\include\shared\minwindef.h(193): note: 参见“max”的前一个定义
+  scanhost.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\scanhost\Debug\scanhost.exe
